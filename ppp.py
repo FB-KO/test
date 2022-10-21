@@ -1,1 +1,1 @@
-import ppp
+PyInit_ppp
